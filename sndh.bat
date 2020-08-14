@@ -1,0 +1,1 @@
+Powershell -Command c:\Users\%username%\winChgSound\SoundToHeadphones.ps1 %*

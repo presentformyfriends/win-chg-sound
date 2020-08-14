@@ -1,0 +1,1 @@
+Powershell -Command c:\Users\%username%\winChgSound\SoundToSpeakers.ps1 %*
