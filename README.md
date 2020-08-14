@@ -17,6 +17,8 @@ WinKey-R, "snds" changes to speakers output (option 6)
 
 You can change the option number in the Powershell scripts (.ps1 files) to whatever you want, depending on how your output settings are mapped.
 
+![winChgSound.gif](img/winChgSound.gif)
+
 ## :turtle: Dependencies
 
 This script uses the AudioDeviceCmdlets module for Powershell.
