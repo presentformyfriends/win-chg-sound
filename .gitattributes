@@ -1,2 +1,2 @@
-*.batchfile linguist detectable=false
-*.powershell linguist detectable=true
+*.bat linguist detectable=false
+*.ps1 linguist detectable=true
