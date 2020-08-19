@@ -1,0 +1,2 @@
+*.batchfile linguist detectable=false
+*.powershell linguist detectable=true
