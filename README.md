@@ -1,5 +1,5 @@
 # winChgSound
-A small Powershell script used to change the Sound Output in Windows.
+Powershell script used to change the Sound Output in Windows.
 
 ## :headphones::speaker: Usage
 
